@@ -7,7 +7,7 @@ sections:
       - label: Ver más
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Contáctanos
         url: /contact
         style: secondary
     align: left
