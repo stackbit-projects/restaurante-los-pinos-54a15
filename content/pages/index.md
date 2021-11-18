@@ -23,7 +23,7 @@ sections:
       background_image_repeat: repeat
     subtitle: Ven al mejor hostal de la zona del sur de Salamanca
   - type: features_section
-    title: Features
+    title: Sobre nosotros
     features:
       - title: Feature 1
         content: >-
