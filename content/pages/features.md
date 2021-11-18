@@ -14,7 +14,7 @@ sections:
           Con nuestro hostal recién reformado disfrutarás de un ambiente de
           tranquilidad excelente
         align: left
-        image: /images/_DIC4055.jpg
+        image: /images/_DIC3882.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
