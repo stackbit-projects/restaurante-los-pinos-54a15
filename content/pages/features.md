@@ -10,10 +10,9 @@ sections:
   - type: features_section
     features:
       - title: Nuestras instalaciones
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Con nuestro hostal recién reformado disfrutarás de un ambiente de
+          tranquilidad excelente
         align: left
         image: /images/_DIC4055.jpg
         image_alt: Feature 1 placeholder image
