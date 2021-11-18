@@ -30,7 +30,7 @@ sections:
           Tenemos unas espectaculares habitaciones para poder descansar de su
           viaje
         align: left
-        image: images/feature.svg
+        image: /images/_DIC3873.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
