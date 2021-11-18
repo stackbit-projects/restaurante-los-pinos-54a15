@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Nuestras instalaciones
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Tenemos habitaciones recién reformadas y muy confortables para pasar la
+      noche en total tranquilidad
     align: center
   - type: features_section
     features:
