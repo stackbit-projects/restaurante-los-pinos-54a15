@@ -23,7 +23,8 @@ sections:
       background_image_repeat: repeat
     subtitle: >-
       Hostal restaurante situado en el sur de Salamanca, donde podrás pasar una
-      noche tranquila con el ambiente más rural
+      noche tranquila con el ambiente más rural, además de ofrecer las mejores
+      comidas de la zona
   - type: features_section
     title: Sobre nosotros
     features:
