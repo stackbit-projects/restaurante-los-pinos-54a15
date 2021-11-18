@@ -57,7 +57,7 @@ sections:
           Estamos en el Sur de Salamanca en una zona muy rural donde podrás
           disfrutar de paisajes increíbles y un ambiente de tranquilidad
         align: left
-        image: /images/_DIC3884.jpg
+        image: /images/IMG-20200511-WA0001.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
