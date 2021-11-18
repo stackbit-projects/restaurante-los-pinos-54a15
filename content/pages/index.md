@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Bar restaurante Los Pinos
+    title: Hostal Los Pinos
     actions:
       - label: Learn More
         url: /features
