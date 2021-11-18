@@ -26,10 +26,9 @@ sections:
     title: Sobre nosotros
     features:
       - title: Hostal
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Tenemos unas espectaculares habitaciones para poder descansar de su
+          viaje
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
