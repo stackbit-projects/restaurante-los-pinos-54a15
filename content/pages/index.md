@@ -46,7 +46,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: Learn More
+          - label: Ver más
             url: /features
             style: secondary
       - title: Feature 3
