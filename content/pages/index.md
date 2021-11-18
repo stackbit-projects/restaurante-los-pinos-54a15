@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: Ven al mejor hostal de la zona del sur de salamanca
+    subtitle: Ven al mejor hostal de la zona del sur de Salamanca
   - type: features_section
     title: Features
     features:
