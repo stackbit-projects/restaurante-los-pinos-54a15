@@ -33,10 +33,8 @@ sections:
             url: /style-guide
             style: primary
       - title: Limpieza
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |
+          Encontrarás totalmente limpia y organizada la habitación
         align: left
         image: /images/_DIC4024.jpg
         image_alt: Feature 3 placeholder image
