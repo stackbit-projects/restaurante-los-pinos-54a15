@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hostal restaurante Los Pinos
     actions:
-      - label: Learn More
+      - label: Ver más
         url: /features
         style: primary
       - label: Contact Us
