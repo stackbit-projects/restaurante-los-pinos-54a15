@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: 'Ven al mejor '
+    subtitle: Ven al mejor hostal de la zona
   - type: features_section
     title: Features
     features:
