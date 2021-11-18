@@ -32,17 +32,6 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-      - title: Limpieza
-        content: |
-          Encontrarás totalmente limpia y organizada la habitación
-        align: left
-        image: /images/_DIC4024.jpg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /blog
-            style: primary
 seo:
   title: Features
   description: This is the features page
