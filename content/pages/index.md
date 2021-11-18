@@ -42,7 +42,7 @@ sections:
           Además de nuestras habitaciones, ofrecemos desayunos, comidas y cenas
           de la mejor calidad
         align: left
-        image: images/feature.svg
+        image: /images/_DIC4012.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
