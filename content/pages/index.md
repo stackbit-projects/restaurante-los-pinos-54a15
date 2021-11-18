@@ -54,8 +54,8 @@ sections:
             style: secondary
       - title: Nuestra zona
         content: >
-          Zona del sur de Salamanca muy rural donde podrás disfrutar de paisajes
-          increíbles y un ambiente de tranquilidad
+          Estamos en el Sur de Salamanca en una zona muy rural donde podrás
+          disfrutar de paisajes increíbles y un ambiente de tranquilidad
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
