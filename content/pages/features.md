@@ -21,17 +21,6 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Habitaciones
-        content: |
-          Habitaciones muy confortables donde poder descansar
-        align: left
-        image: /images/_DIC3872-83d3bffa.jpg
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
 seo:
   title: Features
   description: This is the features page
