@@ -38,10 +38,9 @@ sections:
             url: /features
             style: secondary
       - title: Restaurante
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Además de nuestras habitaciones, ofrecemos desayunos, comidas y cenas
+          de la mejor calidad
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
