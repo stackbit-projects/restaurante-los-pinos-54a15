@@ -21,6 +21,9 @@ sections:
           - label: Learn More
             url: /about
             style: primary
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Features
   description: This is the features page
