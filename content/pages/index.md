@@ -65,13 +65,11 @@ sections:
             url: /features
             style: secondary
       - title: Gasolinera
-        content: >-
-          Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-          efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-          pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-          imperdiet venenatis.
-                  
-          > Vestibulum ullamcorper risus auctor eleifend consequat.
+        content: >
+
+
+          > A parte de los servicios del hostal-restaurante, tenemos una
+          gasolinera en el pueblo cercano.
 
 
           ![Placeholder
