@@ -64,7 +64,7 @@ sections:
           - label: Ver más
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Gasolinera
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
